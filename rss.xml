@@ -4,8 +4,15 @@
         <description><![CDATA[foo]]></description>
         <link>https://thegrid.ai/foo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 00:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 00:22:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["I'm Paparazzi" / Ballantines Cyprus]]></title>
+            <description><![CDATA[<article><h1>"I'm Paparazzi" / Ballantines Cyprus</h1><p>Capsus est fier de vous présenter son nouveau film " I'm Paparazzi " estampillé Ballantine's. Au cœur de la campagne globale "Stay True Stories ", le film a été réalisée par nos soins aux cotés de l'agence SEEN grâce à la participation du street artiste Paparazzi.</p></article>]]></description>
+            <link>https://vimeo.com/139056047</link>
+            <guid isPermaLink="false">59b0d73c-3cae-435d-a4a0-56320f732f9c</guid>
+            <pubDate>Mon, 07 Dec 2015 00:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PYRÉNÉES D'AUTOMNE by CAPSUSFILMS.com]]></title>
             <description><![CDATA[<article><h1>PYRÉNÉES D'AUTOMNE by CAPSUSFILMS.com</h1><p>Que diriez-vous de vous laisser planer un instant, le temps d'une envolée d'Automne ? http://www.CAPSUSFILMS.com prend de la hauteur et vous offre un moment suspendu au coeur des Pyrénées. Exclusivement tourné en drone 4K, le film célèbre le massif dans son nouveau costume d'apparat.</p></article>]]></description>
